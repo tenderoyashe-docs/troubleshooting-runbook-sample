@@ -1,2 +1,6 @@
-# troubleshooting-runbook-sample
-Technical troubleshooting and runbook documentation sample for incident response and system investigation
+# Troubleshooting & Runbook Sample
+
+This repository contains structured troubleshooting documentation and operational runbooks designed for technical teams.
+
+## Included Documents
+- [Payment Failure Investigation Runbook](payment-failure-runbook.md)
